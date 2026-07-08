@@ -16,24 +16,22 @@
     116004,
     116003
   ],
-  "target_grades": [
-    "BEYOND",
-    "ARCANA",
-    "CELESTIAL",
-    "DIVINE",
-    "COSMIC"
-  ],
+  "ignored_items": [],
+  "target_grades": [],
   "relogger_method": "process_restart",
   "game_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\TaskbarHero\\TaskBarHero.exe",
   "pause_duration": 110,
   "discord_notify_enabled": false,
   "discord_webhook_url": "",
   "discord_user_id": "",
+  "telegram_notify_enabled": true,
+  "telegram_bot_token": "8728590326:AAGkou3dO2ouM6PgR69KQv1JYHKcIkD2UIk",
+  "telegram_chat_id": "1363504228",
   "trainer_auto_launch": false,
   "trainer_path": "",
   "relog_safety_delay": 35,
   "max_chest_index": 10,
-  "telegram_notify_enabled": false,
-  "telegram_bot_token": "",
-  "telegram_chat_id": ""
+  "rare_chest_cooldown": 420,
+  "uncommon_chest_cooldown": 240,
+  "save_file_path": "C:\\Users\\Administrador\\AppData\\LocalLow\\TesseractStudio\\TaskbarHero\\SaveFile_Live.es3"
 }
